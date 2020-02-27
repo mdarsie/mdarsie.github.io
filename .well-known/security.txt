@@ -1,0 +1,5 @@
+Contact: mailto:git%68ub&#64;%64ars%69e%2e%6d%65?subject=darsie.dev%20security
+Contact: https://keybase.io/mdarsie#_
+Encryption: https://keybase.io/mdarsie/pgp_keys.asc
+Preferred-Languages: en
+Canonical: https://www.darsie.dev/.well-known/security.txt
