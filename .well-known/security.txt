@@ -1,5 +1,24 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
 Contact: mailto:git%68ub&#64;%64ars%69e%2e%6d%65?subject=darsie.dev%20security
 Contact: https://keybase.io/mdarsie#_
 Encryption: https://keybase.io/mdarsie/pgp_keys.asc
 Preferred-Languages: en
 Canonical: https://www.darsie.dev/.well-known/security.txt
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEOiwOcobi3/eGw7nHmR5jwPveXO0FAl5XQIsACgkQmR5jwPve
+XO3XFw//f7C3l/VlqFOE6aA6Lgw+hqoHgevd65PuAaVCZTOSUzXsXearWMZTRtgW
+hg/N1hvKxNmQjdQVC0qv0oEw+jioqIGw+mO1tr84nSI5fVQqcvfMKXkbNmtBY735
+c6K2ihcb99eG8Kvx2fWKV0WvusDjPP7Wb6BufOPGqLfP3E5ICYo5q8FOnqpI+R/3
+S9+SkJ/do79RUhXxA+bftp0zWqZEcQCFOYEFCTQ3fDVUCOosyPFFwopl1d2DKdeM
+AVFDrxFndR5I43rao1B6GZoGXFUfiJ45JlCX+JJam/8EAMNZqrRtzhvjAv8WcmIf
+BbsH0L67ZoJQvtvXV3vxf8ckWOE9s3hFcZ+fmxfgZ7nFKfGkWm230OviUab127iw
+yM4XPfiJOKIqqK2fsCvaHKZ2aXWDAjzpK/6sQp08sTiwvengJ4Ma9gAB79J5dZC2
+8jfgzkrMnYnwuE8/I3WXQA2LkHK9JpKd6+NBb3kw6wxxDIsaq7D/4nzgA5KzNVAI
+5VzRu0jcfFLixwdSUKM+v9zGnCV0VgJJ+W1fGnKTknt7UKwPz9HZWUnizExgHfCW
+BDrpRUgea/enVX1fmcTTizvkFJ75s9098ujI+f5cKECxlDwhOzmqE64LkWV/p1d1
+TvIHcvFzGEczwBej9x0RVvhV8bkM9pT35+lGdCHkWt8adr6TON8=
+=F+vT
+-----END PGP SIGNATURE-----
